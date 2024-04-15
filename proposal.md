@@ -1,7 +1,7 @@
 # TITLE
 
 ## Repository
-(https://github.com/csw220001/bingus.git)
+https://github.com/csw220001/bingus.git
 
 ## Description
 This project will be a fun text-based choose-your-own-adventure game.
