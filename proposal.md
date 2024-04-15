@@ -1,4 +1,4 @@
-# TITLE
+# Keyboard Kismet
 
 ## Repository
 https://github.com/csw220001/bingus.git
@@ -22,7 +22,7 @@ This project will be a fun text-based choose-your-own-adventure game.
 - I will need to refresh my memory on if, elif, and else statements, as well as the most efficient and concise ways to handle a surplus of them.
 - I will need to learn and/or relearn how to handle text strings that include variables.
 - It is likely I will face some challenges organizing my project into functions which can pull from each other. I will need to refresh myself on functions and function interaction.
-- I could potentially research giving the player the ability to click on their desired answer and have the program respond accordingly, but I will likely just have the player select answer choices based on an assigned number or letter.
+- I could potentially research giving the player the ability to click on their desired answer and have the program respond accordingly, but I will likely just have the player input answer choices based on an assigned number or letter.
 
 ## Outcomes
 Ideal Outcome:
@@ -43,7 +43,7 @@ Minimal Viable Outcome:
   3. (if time permits) Class options and basic class choices for decision tree
 
 - Week 2
-  1. Player ability to name protagonist
+  1. Code player ability to name protagonist
   2. Code Minimal Outcome; 3-4 sets of choices, at least 2 choices each
 
 - Week 3 (Final)
