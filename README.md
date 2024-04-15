@@ -4,6 +4,6 @@
 Demo Video: <URL>
 
 ## GitHub Repository
-GitHub Repo: https://github.com/csw220001/bingus.git
+GitHub Repo: (https://github.com/csw220001/bingus.git)
 
 ## Description
